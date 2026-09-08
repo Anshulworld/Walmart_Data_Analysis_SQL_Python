@@ -134,3 +134,17 @@ This project is licensed under the MIT License.
 - **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
 
 ---
+
+## Author - ANSHUL KUMAR SINGH
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+### Stay Updated and Join the Community
+
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+
+- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/anshulworld/)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/anshulworld)
+
+Thank you for your support, and I look forward to connecting with you!
+
